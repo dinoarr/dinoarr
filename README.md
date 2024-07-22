@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinoarr&label=Views&color=0f3248&style=flat-square" alt="dinoarr" /> </p>
 
-- 🔭 I’m currently working on **own framework**
-
 - 🌱 I’m currently learning **laravel**
 
 - 👯 I’m looking to collaborate on **laravel project**
