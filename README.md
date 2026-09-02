@@ -77,6 +77,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dinoarr/dinoarr/snake-output/snake.svg" alt="Snake animation" />
-
 ###
